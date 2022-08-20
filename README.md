@@ -1,7 +1,8 @@
 # Java-Add-Remove-Clear-GUI
-A JavaFX application to add remove and clear strings inputs using LinkedHashSet
+A JavaFX application to add remove and clear strings inputs using LinkedHashSet for an ordered list.
+by *@agocoded*
 
-*GUI when application starts*
+**GUI when application starts**
 
 ![image](https://user-images.githubusercontent.com/87380930/185755226-434cdfd8-9654-484f-8ad4-95a1fa6d3570.png)
 
